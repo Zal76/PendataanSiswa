@@ -1,7 +1,7 @@
 # Sistem Manajemen Data Siswa
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zal76/PendataanSiswa/main/images/Screenshots/dashboard.png" alt="Dashboard" width="600">
+  <img src="https://raw.githubusercontent.com/zal76/PendataanSiswa/main/images/Screenshot/dashboard.png" alt="Dashboard" width="600">
 </p>
 
 ## Deskripsi

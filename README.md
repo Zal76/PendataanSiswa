@@ -15,18 +15,18 @@ Fitur utama:
 
 ---
 
-## Teknologi yang Digunakan
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Backend:** PHP, Laravel  
+## Tools yang Digunakan
+- **Frontend:** HTML, CSS,
+- **Backend:** PHP, 
 - **Database:** MySQL  
 - **Tools:** VS Code, Git, GitHub  
 
 ---
 
 ## Instalasi
-
-1. Clone repository:
-
-```bash
-https://github.com/Zal76/PendataanSiswa.git
-cd repo-name
+git clone https://github.com/Zal76/PendataanSiswa.git
+cd Spk_Pemilihan_Bimbel
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan serve

@@ -1,7 +1,7 @@
 # Sistem Manajemen Data Siswa
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zal76/repo-name/main/images/Screenshots/dashboard.png" alt="Dashboard" width="600">
+  <img src="https://raw.githubusercontent.com/zal76/PendataanSiswa/main/images/Screenshots/dashboard.png" alt="Dashboard" width="600">
 </p>
 
 ## Deskripsi
@@ -28,5 +28,5 @@ Fitur utama:
 1. Clone repository:
 
 ```bash
-git clone https://github.com/username/repo-name.git
+https://github.com/Zal76/PendataanSiswa.git
 cd repo-name
